@@ -5,4 +5,4 @@
 An old-fashioned saloon that could be used as an area for a western cowboy-style game.
 ![image](https://github.com/Marcello-Feliciano/Resume/assets/165084564/e88ebfeb-173b-4264-b16d-a60d8dc81f5b)
 ![image](https://github.com/Marcello-Feliciano/Resume/assets/165084564/e5310dad-285b-4b55-af66-3f0222271daa)
-The weapon that John Wick uses in the film franchise's first movie could potentially be used for an FPS-style game. 
+The weapon that John Wick uses in the film franchise's first movie, this could potentially be used for an FPS-style game. 
